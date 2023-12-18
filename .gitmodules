@@ -10,3 +10,6 @@
 	path = week3_lotto
 	url = https://github.com/youngsu5582/java-lotto-6
 	branch = youngsu5582
+[submodule "week4_christmas"]
+	path = week4_christmas
+	url = https://github.com/youngsu5582/java-christmas-6-youngsu5582
