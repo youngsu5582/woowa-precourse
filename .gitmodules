@@ -1,0 +1,4 @@
+[submodule "week1_baseball"]
+	path = week1_baseball
+	url = https://github.com/youngsu5582/java-baseball-6
+	branch = youngsu5582
