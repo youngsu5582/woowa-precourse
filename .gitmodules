@@ -13,3 +13,6 @@
 [submodule "week4_christmas"]
 	path = week4_christmas
 	url = https://github.com/youngsu5582/java-christmas-6-youngsu5582
+[submodule "final_oncall"]
+	path = final_oncall
+	url = https://github.com/youngsu5582/java-oncall-6-youngsu5582
