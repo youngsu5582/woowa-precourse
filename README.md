@@ -12,6 +12,8 @@
 
 ![Alt text](first.png)
 
-| 과제 | 내용 | 코드 리뷰 |
+| 과제 | 내용 | 코드 경로 |
 | :--- | :--- | :---: |
 | ⚠️ 비상 근무 | 개발자 비상근무 | [Repo](https://github.com/youngsu5582/java-oncall-6-youngsu5582) |
+
+![Alt text](final.png)
